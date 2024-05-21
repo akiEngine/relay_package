@@ -1,0 +1,7 @@
+bool r1
+bool r2
+---
+bool done
+---
+bool state_r1
+bool state_r2
